@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Olá, eu sou Cauê
 
-<!--
-**CauePrad0/CauePrad0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Sistemas de Informação e desenvolvedor focado em backend e aplicações web.  
+Trabalho com Java, Spring Boot, Python, Django, SQL e Docker para criar APIs, sistemas completos e projetos que reforçam meu aprendizado diário.
 
-Here are some ideas to get you started:
+Meu GitHub reúne estudos, experimentos, evoluções de código e projetos pessoais que refletem minha rotina de prática constante e melhoria contínua.  
+Gosto de entender problemas, estruturar soluções e escrever código cada vez mais claro, organizado e eficiente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+- Java, Spring Boot  
+- Python, Django  
+- SQL, MySQL, PostgreSQL  
+- Docker, Git,  
+
+## 📌 O que você encontra aqui
+- Projetos acadêmicos  
+- APIs e serviços backend  
+- Aplicações web  
+- Estudos e testes técnicos  
+- Experimentos com IA  
+
+## 📫 Contato
+**Email:** caueprado2005@gmail.com  
+**LinkedIn:** www.linkedin.com/in/cauê-prado-baía-369583302
+
+
+
