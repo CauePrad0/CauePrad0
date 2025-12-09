@@ -10,7 +10,7 @@ Gosto de entender problemas, estruturar soluções e escrever código cada vez m
 - Java, Spring Boot  
 - Python, Django  
 - SQL, MySQL, PostgreSQL  
-- Docker, Git,  
+- Docker, Git
 
 ## 📌 O que você encontra aqui
 - Projetos acadêmicos  
@@ -21,7 +21,7 @@ Gosto de entender problemas, estruturar soluções e escrever código cada vez m
 
 ## 📫 Contato
 **Email:** caueprado2005@gmail.com  
-**LinkedIn:** www.linkedin.com/in/cauê-prado-baía-369583302
+**LinkedIn:** www.linkedin.com/in/cauepradobaia
 
 
 
