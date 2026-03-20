@@ -1,29 +1,63 @@
 # 👋 Olá, eu sou Cauê
 
+Sou estudante de Sistemas de Informação com foco em Engenharia de Dados.
 
+Trabalho com Python, SQL e ferramentas de processamento distribuído para construir pipelines de dados, estruturar arquiteturas escaláveis e transformar dados brutos em informação útil para tomada de decisão.
 
-Trabalho com o desenvolvimento de infraestruturas de dados robustas e escaláveis. Utilizo **Python (PySpark/Pandas), SQL e Docker** para projetar e implementar pipelines de dados, arquiteturas de integração e sistemas de alta disponibilidade.
+Meu GitHub reúne estudos, projetos práticos e experimentos voltados à coleta, processamento, armazenamento e análise de dados, refletindo minha evolução contínua na área.
 
-Meu foco é transformar fluxos de dados complexos em estruturas organizadas e eficientes. Meu GitHub reúne soluções que abrangem desde a ingestão de dados via APIs e sistemas de mensageria até a modelagem e persistência em ambientes conteinerizados, sempre priorizando a performance e a integridade da informação.
+Tenho interesse em entender o ciclo completo dos dados — desde a ingestão até a disponibilização — sempre buscando soluções eficientes, organizadas e escaláveis.
 
-Gosto de arquitetar soluções para problemas reais, estruturando pipelines de **ETL/ELT** e escrevendo código limpo, modular e preparado para produção.
+---
 
-### 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias e Ferramentas
 
-* **Linguagens & Frameworks:** Python (PySpark, Pandas)
-* **Engenharia de Dados:** Ingestão de Dados, ETL/ELT, Modelagem Dimensional
-* **Bancos de Dados:** SQL, PostgreSQL, MySQL, Integração com NoSQL
-* **Infraestrutura & DevOps:** Docker, Docker Compose, Git, CI/CD
+**Linguagens & Processamento**
+- Python (Pandas, PySpark)
+- SQL
 
-### 📌 O que você encontra aqui
+**Engenharia de Dados & Big Data**
+- Apache Spark (PySpark)
+- Databricks
 
-* **Pipelines de Dados:** Fluxos automatizados de extração, transformação e carga.
-* **Arquitetura Backend:** APIs de alta performance voltadas para integração de dados.
-* **Data Modeling:** Projetos focados em estruturação e modelagem de bancos de dados.
-* **Big Data & Analytics:** Experimentos com processamento distribuído e tratamento de grandes volumes.
-* **Soluções Escaláveis:** Projetos estruturados em microsserviços e containers.
+**Cloud & Plataforma**
+- Microsoft Azure
 
-### 📫 Contato
+**Banco de Dados**
+- MySQL
+- PostgreSQL
 
-* **Email:** [caueprado2005@gmail.com](mailto:caueprado2005@gmail.com)
-* **LinkedIn:** [linkedin.com/in/cauepradobaia](https://www.linkedin.com/in/cauepradobaia)
+**DevOps & Ferramentas**
+- Docker
+- Git
+
+---
+
+## 📊 O que você encontra aqui
+
+- Pipelines de dados (ETL/ELT)
+- Processamento de dados em larga escala
+- Integração e ingestão de dados
+- Projetos com PySpark e Databricks
+- Análises exploratórias com Pandas
+- Estudos sobre arquitetura de dados
+- Experimentos com dados e performance
+
+---
+
+## 🎯 Objetivo
+
+Desenvolver soluções de dados que sejam:
+- Escaláveis
+- Confiáveis
+- Performáticas
+- Bem estruturadas
+
+Buscando sempre transformar dados em valor real para negócios.
+
+---
+
+## 📫 Contato
+
+- **Email:** caueprado2005@gmail.com  
+- **LinkedIn:** www.linkedin.com/in/cauepradobaia  
